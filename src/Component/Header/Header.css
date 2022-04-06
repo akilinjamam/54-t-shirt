@@ -1,0 +1,17 @@
+ul {
+    list-style-type: none;
+
+}
+
+
+li a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+
+.header {
+    background-color: cadetblue;
+    padding: 1px;
+}
